@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TrackR<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about my projects
+🔭 I’m currently working on MyBudgetory<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about my projects
 
 
 ## 🌐 Socials:
