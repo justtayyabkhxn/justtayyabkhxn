@@ -18,7 +18,7 @@
 </p>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width="22" /> `~/about-me`
+## 👨‍💻 `~/about-me`
 
 ```ts
 const tayyab = {
@@ -33,7 +33,7 @@ const tayyab = {
 ```
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-24.svg" width="22" /> `~/tech-stack`
+## 🛠️ `~/tech-stack`
 
 <table>
   <tr>
@@ -88,30 +88,29 @@ const tayyab = {
 </table>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="22" /> `~/github-stats`
+<!-- Cards below are generated into this repo by .github/workflows/snake.yml -->
+## 📊 `~/github-stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=justtayyabkhxn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtayyabkhxn&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=justtayyabkhxn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e&stroke=30363d" alt="streak" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justtayyabkhxn&bg_color=0d1117&color=c9d1d9&line=3fb950&point=58a6ff&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repos per language" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time" />
 </p>
 
-<!-- ═══════════════════════════ REPOS ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="22" /> `~/top-contributed-repos`
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=justtayyabkhxn&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="top contributed repos" />
+  <img src="https://streak-stats.demolab.com/?user=justtayyabkhxn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e&stroke=30363d" alt="streak" />
 </p>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/flame-24.svg" width="22" /> `~/contributions --eat`
+## 🐍 `~/contributions --eat`
 
 <p align="center">
   <picture>
@@ -122,7 +121,7 @@ const tayyab = {
 </p>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/quote-24.svg" width="22" /> `~/random-dev-quote`
+## 💬 `~/random-dev-quote`
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="dev quote" />
