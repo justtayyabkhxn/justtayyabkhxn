@@ -1,24 +1,138 @@
-# 💫 About Me:
-🔭 I’m currently working on MyBudgetory<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning TanStack<br>💬 Ask me about my projects
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0d1117,50:161b22,100:1f6feb&text=Tayyab%20Khan&fontSize=56&fontColor=f0f6fc&fontAlignY=36&desc=git%20commit%20-m%20%22building%20things%20that%20matter%22&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/justtayyabkhxn">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Full-Stack+Developer;Currently+shipping+%F0%9F%92%B8+MyBudgetory;Learning+TanStack+one+query+at+a+time;Open+to+collaborations+%E2%80%94+let's+build!" alt="typing intro" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justtayyabkhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/justtayyabkhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/justtayyabkhxn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabkhangk4734@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/justtayyabkhan"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://x.com/justtayyabkhxn"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=f0f6fc" alt="X" /></a>
+  <a href="https://reddit.com/user/justtayyabkhan"><img src="https://img.shields.io/badge/Reddit-161b22?style=for-the-badge&logo=reddit&logoColor=ff4500" alt="Reddit" /></a>
+  <a href="mailto:tayyabkhangk4734@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=f85149" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=justtayyabkhxn&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="profile views" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justtayyabkhxn&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=justtayyabkhxn&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justtayyabkhxn&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width="22" /> `~/about-me`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```ts
+const tayyab = {
+  role:          "Full-Stack Developer",
+  building:      "MyBudgetory 💸",
+  learning:      ["TanStack Query", "TanStack Router", "TanStack Table"],
+  lookingFor:    "Projects to collaborate on 👯",
+  askMeAbout:    "Any of my projects 💬",
+  reachMe:       "tayyabkhangk4734@gmail.com",
+  funFact:       "I write my resume in LaTeX 📝",
+} as const;
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=justtayyabkhxn&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-24.svg" width="22" /> `~/tech-stack`
 
----
-[![](https://visitcount.itsvg.in/api?id=justtayyabkhxn&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td align="right"><sub><b>LANGUAGES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+      <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ed8b00" />
+      <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599c" />
+      <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=a8b9cc" />
+      <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=777bb4" />
+      <img src="https://img.shields.io/badge/LaTeX-161b22?style=for-the-badge&logo=latex&logoColor=3fb950" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>FRONTEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" />
+      <img src="https://img.shields.io/badge/TanStack-161b22?style=for-the-badge&logo=reactquery&logoColor=ff4154" />
+      <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
+      <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=e34f26" />
+      <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572b6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BACKEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-161b22?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
+      <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=f0f6fc" />
+      <img src="https://img.shields.io/badge/Prisma-161b22?style=for-the-badge&logo=prisma&logoColor=5a67d8" />
+      <img src="https://img.shields.io/badge/Apache-161b22?style=for-the-badge&logo=apache&logoColor=d42029" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
+      <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479a1" />
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47a248" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DEVOPS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=f0f6fc" />
+      <img src="https://img.shields.io/badge/Netlify-161b22?style=for-the-badge&logo=netlify&logoColor=00c7b7" />
+      <img src="https://img.shields.io/badge/npm-161b22?style=for-the-badge&logo=npm&logoColor=cb3837" />
+      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=f05032" />
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="22" /> `~/github-stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=justtayyabkhxn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtayyabkhxn&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=justtayyabkhxn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e&stroke=30363d" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justtayyabkhxn&bg_color=0d1117&color=c9d1d9&line=3fb950&point=58a6ff&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+</p>
+
+<!-- ═══════════════════════════ REPOS ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="22" /> `~/top-contributed-repos`
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=justtayyabkhxn&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="top contributed repos" />
+</p>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/flame-24.svg" width="22" /> `~/contributions --eat`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justtayyabkhxn/justtayyabkhxn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justtayyabkhxn/justtayyabkhxn/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/justtayyabkhxn/justtayyabkhxn/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/quote-24.svg" width="22" /> `~/random-dev-quote`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="dev quote" />
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1f6feb,50:161b22,100:0d1117" alt="footer" />
+</p>
+
+<p align="center">
+  <sub><code>$ exit 0</code> &nbsp;·&nbsp; Thanks for stopping by ✨</sub>
+</p>
